@@ -292,7 +292,7 @@ async function runCrawler() {
 }
 
 async function runDownloader() {
-    alert(`runDownloader 실행`);
+    alert(`runDownloader 실행2`);
 }
 
 
